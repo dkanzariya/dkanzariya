@@ -1,4 +1,4 @@
-[dkanzariya.github.io/](https://dkanzariya.github.io/)
+[dkanzariya.github.io](https://dkanzariya.github.io/)
 
 
 <!--
