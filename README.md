@@ -1,7 +1,9 @@
-### Hi there 👋
+### Having a Real Passion for AI, Experienced in Developing scripts to automate tasks to reduce manual efforts, I have acquired skills and gain understanding of Airtificial Intelligence, Machine Learning, Deep Learning techniques, algorithms, architectures.
+
 
 <!--
 **dkanzariya/dkanzariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 Here are some ideas to get you started:
 
