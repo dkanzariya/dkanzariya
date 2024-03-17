@@ -1,4 +1,4 @@
-### Having a Real Passion for AI, Experienced in Developing scripts to automate tasks to reduce manual efforts, I have acquired skills and gain understanding of Airtificial Intelligence, Machine Learning, Deep Learning techniques, algorithms, architectures.
+Having a Real Passion for AI, Experienced in Developing scripts to automate tasks to reduce manual efforts, I have acquired skills and gain understanding of Airtificial Intelligence, Machine Learning, Deep Learning techniques, algorithms, architectures.
 
 
 <!--
